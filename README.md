@@ -40,4 +40,4 @@
 
 📫 **Vamos nos conectar?**  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/thiago-moura-1b6565268)  
-[![Email](https://img.shields.io/badge/Email-Contact_Me-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thiagoasmoura1@gmail.coml@email.com)  
+[![Email](https://img.shields.io/badge/Email-Contact_Me-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thiagoasmoura1@gmail.com)  
